@@ -1,0 +1,51 @@
+body{
+    background: rgb(221,210,189);
+background: linear-gradient(90deg, rgba(221,210,189,1) 0%, rgba(237,228,125,1) 50%, rgba(165,212,157,1) 100%);
+    font-size: 16px;
+}
+img{
+    margin-left: 40%;
+}
+h1{
+    text-align: center;
+}
+
+#sobre{
+     border: solid;
+     width: 60%;
+     padding: 10px 10px 10px 10px;
+     position: relative;
+     left: 20%;
+}
+
+nav{
+    position: relative;
+    left: 39%;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.sobre{
+    position: relative;
+    left: 20%;
+}
+
+.subtitulo{
+    text-decoration: underline;
+    margin-left: 20px;
+}
+
+div{
+    border-style: dashed;
+}
+
+form{
+    padding: 20px 20px 20px 20px;
+}
+
+li{
+    list-style-type: lower-roman;
+}
